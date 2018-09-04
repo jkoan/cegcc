@@ -6,7 +6,7 @@
 	url = git://github.com/jkoan/cegcc-binutils.git
 [submodule "gcc"]
 	path = gcc
-	url = git://github.com/jkoan/cegcc-gcc.git
+	url = git://gcc.gnu.org/git/gcc.git
 [submodule "mingw"]
 	path = mingw
 	url = git://github.com/jkoan/cegcc-mingw.git
